@@ -1,0 +1,147 @@
+<table><tr><td style='width: 214px; height: 97px;'><img src='http://www.argoit.com.br/pontestur/images/logo_pontestur.gif' /></td><td style='width: 214px; height: 97px;'><img src='http://www.argoit.com.br/pontestur/images/logo_pontestur_iqe.gif' /></td></tr><tr><td colspan='2'>
+	<table cellspacing="0" rules="all" border="1" style="font-family:Tahoma;font-size:9pt;font-weight:bold;border-collapse:collapse;">
+		<tr style="color:White;background-color:Green;">
+			<th scope="col">Data Inicial</th><th scope="col">Solicitante</th><th scope="col">Data Final</th><th scope="col">Viajante</th><th scope="col">Agencia</th><th scope="col">Centro Custo de Debito</th><th scope="col">Listar Produtos</th><th scope="col">Partida</th><th scope="col">Chegada</th><th scope="col">Localizador</th><th scope="col">Bilhete</th><th scope="col">Valor médio</th><th scope="col">Valor menor</th><th scope="col">Valor maior</th><th scope="col">Data da Ultima Atualizacao do Relatorio</th>
+		</tr><tr>
+			<td class="GridCabec" colspan="15">Centro Custo de Debito: 01.1.1.01 | ADM SP 01.1.1.01</td>
+		</tr><tr>
+			<td>05/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>DIVANI CARVALHO DE SOUZA</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;05/Ago/2018|10/Ago/2018 11:30|17:25</td><td>&#39;05/Ago/2018|10/Ago/2018 12:50|18:40</td><td>V6P3GL    </td><td>&#160;2472440180248</td><td>835,04</td><td>784,99</td><td>885,09</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>05/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Ana José Santos</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;05/Ago/2018|10/Ago/2018 11:30|17:25</td><td>&#39;05/Ago/2018|10/Ago/2018 12:50|18:40</td><td>V6OFUD    </td><td>&#160;2472440180249</td><td>835,04</td><td>784,99</td><td>885,09</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>05/08/2018 06:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Wilton Araújo</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;05/Ago/2018|10/Ago/2018 11:30|17:25</td><td>&#39;05/Ago/2018|10/Ago/2018 12:50|18:40</td><td>V732LY    </td><td>&#160;2472440180250</td><td>1013,43</td><td>855,76</td><td>1171,09</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>05/08/2018 06:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Simone Campelo</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;05/Ago/2018|10/Ago/2018 11:30|17:25</td><td>&#39;05/Ago/2018|10/Ago/2018 12:50|18:40</td><td>V7FBEF    </td><td>&#160;2472440180251</td><td>1013,43</td><td>855,76</td><td>1171,09</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>05/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Fátima Nascimento Almeida</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;05/Ago/2018|05/Ago/2018 09:00|13:10</td><td>&#39;05/Ago/2018|05/Ago/2018 12:20|13:50</td><td>GH6G3X    </td><td>&#160;GH6G3X</td><td>912,38</td><td>702,39</td><td>1122,36</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>05/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Fátima Nascimento Almeida</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;10/Ago/2018|10/Ago/2018 11:15|14:35</td><td>&#39;10/Ago/2018|10/Ago/2018 13:50|17:35</td><td>VL137G    </td><td>&#160;VL137G</td><td>677,87</td><td>595,69</td><td>760,04</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>06/08/2018 06:00:00</td><td>PAUL PESSOA</td><td>06/08/2018 06:00:00</td><td>MARIA DAS GRACAS AMORIM DE BRITO</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;06/Ago/2018|06/Ago/2018 06:05|09:40</td><td>&#39;06/Ago/2018|06/Ago/2018 08:45|11:30</td><td>MLQ32Q    </td><td>&#160;MLQ32Q</td><td>2036,96</td><td>1379,55</td><td>2694,37</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>06/08/2018 06:00:00</td><td>PAUL PESSOA</td><td>06/08/2018 06:00:00</td><td>Marcelo de Oliveira</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;06/Ago/2018|06/Ago/2018 08:10|11:40</td><td>&#39;06/Ago/2018|06/Ago/2018 11:05|13:10</td><td>UHPZRN    </td><td>&#160;UHPZRN</td><td>1085,51</td><td>990,36</td><td>1180,66</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>10/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 00:00:00</td><td>Marcelo de Oliveira</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;10/Ago/2018|10/Ago/2018 14:50|21:05</td><td>&#39;10/Ago/2018|10/Ago/2018 18:30|22:45</td><td>BNTBHK    </td><td>&#160;BNTBHK</td><td>991,42</td><td>805,58</td><td>1177,26</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>10/08/2018 12:00:00</td><td>PAUL PESSOA</td><td>10/08/2018 12:00:00</td><td>MARIA DAS GRACAS AMORIM DE BRITO</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;10/Ago/2018|10/Ago/2018 14:50|20:55</td><td>&#39;10/Ago/2018|10/Ago/2018 18:30|23:25</td><td>QWQNPK    </td><td>&#160;QWQNPK</td><td>1113,97</td><td>1000,61</td><td>1227,32</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>16/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>17/08/2018 00:00:00</td><td>IRAN DE FATIMA MATIAS DE FREITAS</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;16/Ago/2018|17/Ago/2018 09:00|18:45</td><td>&#39;16/Ago/2018|17/Ago/2018 12:20|21:55</td><td>H69CVB    </td><td>&#160;H69CVB</td><td>897,65</td><td>701,48</td><td>1093,82</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>15/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>15/08/2018 00:00:00</td><td>IRAN DE FATIMA MATIAS DE FREITAS</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;15/Ago/2018 12:30</td><td>&#39;15/Ago/2018 15:50</td><td>ORRABI    </td><td>&#160;2472440343302</td><td>640,13</td><td>487,67</td><td>792,58</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>22/08/2018 00:00:00</td><td>LUIS FELIPE CASTRO OLIVEIRA</td><td>25/08/2018 00:00:00</td><td>LUIS FELIPE CASTRO OLIVEIRA</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;22/Ago/2018 17:35</td><td>&#39;22/Ago/2018 21:05</td><td>GC126Z    </td><td>&#160;GC126Z</td><td>345,85</td><td>295,53</td><td>396,17</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>22/08/2018 00:00:00</td><td>LUIS FELIPE CASTRO OLIVEIRA</td><td>25/08/2018 00:00:00</td><td>LUIS FELIPE CASTRO OLIVEIRA</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;25/Ago/2018 13:05</td><td>&#39;25/Ago/2018 16:20</td><td>C9675S    </td><td>&#160;C9675S</td><td>543,48</td><td>343,67</td><td>743,29</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>11/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>13/09/2018 12:00:00</td><td>IRAN DE FATIMA MATIAS DE FREITAS</td><td>Agência Pontestur</td><td>01.1.1.01 | ADM SP 01.1.1.01</td><td>&nbsp;</td><td>&#39;11/Set/2018|13/Set/2018 14:20|18:30</td><td>&#39;11/Set/2018|13/Set/2018 17:50|21:40</td><td>XC6JWC    </td><td>&#160;XC6JWC</td><td>898,25</td><td>807,80</td><td>988,70</td><td>30/08/2018 14:31:05</td>
+		</tr><tr class="GridTotal">
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td colspan="15"></td>
+		</tr><tr>
+			<td class="GridCabec" colspan="15">Centro Custo de Debito: 02.1.1.01 | ADM. PE 02.1.1.01</td>
+		</tr><tr>
+			<td>22/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>22/08/2018 00:00:00</td><td>Marcelo Falcao de Oliveira</td><td>Agência Pontestur</td><td>02.1.1.01 | ADM. PE 02.1.1.01</td><td>&nbsp;</td><td>&#39;22/Ago/2018 22:45</td><td>&#39;23/Ago/2018 01:50</td><td>FCU5GJ    </td><td>&#160;FCU5GJ</td><td>1741,95</td><td>693,59</td><td>2790,30</td><td>30/08/2018 14:31:05</td>
+		</tr><tr class="GridTotal">
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td colspan="15"></td>
+		</tr><tr>
+			<td class="GridCabec" colspan="15">Centro Custo de Debito: 02.1.1.19 | CARUARU EF 02.1.1.19</td>
+		</tr><tr>
+			<td>26/08/2018 00:00:00</td><td>Vilma Rodrigues</td><td>30/08/2018 00:00:00</td><td>CONCEICAO APARECIDA PARATELI</td><td>Agência Pontestur</td><td>02.1.1.19 | CARUARU EF 02.1.1.19</td><td>&nbsp;</td><td>&#39;26/Ago/2018|30/Ago/2018 08:35|13:20</td><td>&#39;26/Ago/2018|30/Ago/2018 11:50|16:40</td><td>CDRKWW    </td><td>&#160;CDRKWW</td><td>1362,52</td><td>1287,72</td><td>1437,32</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>26/08/2018 00:00:00</td><td>Vilma Rodrigues</td><td>30/08/2018 00:00:00</td><td>MARIA HELENA COSTA CARNEIRO BRAGA</td><td>Agência Pontestur</td><td>02.1.1.19 | CARUARU EF 02.1.1.19</td><td>&nbsp;</td><td>&#39;26/Ago/2018|30/Ago/2018 09:55|13:40</td><td>&#39;26/Ago/2018|30/Ago/2018 13:10|16:55</td><td>RDLCQB    </td><td>&#160;RDLCQB</td><td>1309,65</td><td>1070,31</td><td>1548,99</td><td>30/08/2018 14:31:05</td>
+		</tr><tr class="GridTotal">
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td colspan="15"></td>
+		</tr><tr>
+			<td class="GridCabec" colspan="15">Centro Custo de Debito: 02.1.1.29 | PETROLINA EF I-II</td>
+		</tr><tr>
+			<td>12/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>15/08/2018 00:00:00</td><td>JOSENILDO SOUZA DE OLIVEIRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;12/Ago/2018|15/Ago/2018 23:05|07:00</td><td>&#39;13/Ago/2018|15/Ago/2018 00:30|08:15</td><td>TGKE2N    </td><td>&#160;TGKE2N</td><td>602,66</td><td>478,25</td><td>727,06</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 12:00:00</td><td>Cleuselite Silva</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 22:55|17:25</td><td>&#39;18/Ago/2018|19/Ago/2018 00:15|18:40</td><td>K68I6I    </td><td>&#160;2472440180329</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 12:00:00</td><td>Ana José Santos</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 22:55|17:25</td><td>&#39;18/Ago/2018|19/Ago/2018 00:15|18:40</td><td>K6CMLI    </td><td>&#160;2472440180330</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 00:00:00</td><td>Wilton Araújo</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 22:55|17:25</td><td>&#39;18/Ago/2018|19/Ago/2018 00:15|18:40</td><td>K6I6A9    </td><td>&#160;2472440180331</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 12:00:00</td><td>SIMONE CAMPELO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>K7TPMQ    </td><td>&#160;2472440343279</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 12:00:00</td><td>SUEDY SANTOS DE AZEVEDO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>K88G3X    </td><td>&#160;2472440343278</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 00:00:00</td><td>LUCIANA NOGUEIRA RIBEIRO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>K7PRZ5    </td><td>&#160;2472440343280</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 00:00:00</td><td>MARIA DE FATIMA NASCIMENTO ALMEIDA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>K7SZVR    </td><td>&#160;2472440343283</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 00:00:00</td><td>MARIA DAS GRACAS AMORIM DE BRITO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>K8DN6N    </td><td>&#160;2472440343281</td><td>705,28</td><td>545,89</td><td>864,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>18/08/2018 12:00:00</td><td>ALINE MARIA ALVES BEZERRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|18/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|18/Ago/2018 12:50|18:40</td><td>K8ZGYV    </td><td>&#160;2472440343282</td><td>635,69</td><td>427,49</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>12/08/2018 06:00:00</td><td>PAUL PESSOA</td><td>12/08/2018 06:00:00</td><td>JOSENILDO SOUZA DE OLIVEIRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;12/Ago/2018 11:30</td><td>&#39;12/Ago/2018 12:50</td><td>MEIBWT    </td><td>&#160;2472440343246</td><td>334,47</td><td>334,47</td><td>334,47</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>14/08/2018 00:00:00</td><td>IRAN DE FATIMA MATIAS DE FREITAS</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Ago/2018|14/Ago/2018 11:30|17:25</td><td>&#39;14/Ago/2018|14/Ago/2018 12:50|18:40</td><td>MSEDPG    </td><td>&#160;2472440343284</td><td>624,08</td><td>491,84</td><td>756,32</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>19/08/2018 00:00:00</td><td>DIVANI CARVALHO DE SOUZA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|19/Ago/2018 11:30|17:25</td><td>&#39;17/Ago/2018|19/Ago/2018 12:50|18:40</td><td>LA5JWM    </td><td>&#160;2472440450668</td><td>787,56</td><td>693,84</td><td>881,28</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>17/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>18/08/2018 00:00:00</td><td>JOSENILDO SOUZA DE OLIVEIRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;17/Ago/2018|18/Ago/2018 22:55|17:25</td><td>&#39;18/Ago/2018|18/Ago/2018 00:15|18:40</td><td>NFBSZ5    </td><td>&#160;2472440450697</td><td>1902,69</td><td>604,39</td><td>3200,98</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>LUCIANA NOGUEIRA RIBEIRO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;14/Set/2018|16/Set/2018 12:50|18:40</td><td>UU2ETE    </td><td>&#160;2472440647431</td><td>671,62</td><td>499,36</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>SUEDY SANTOS DE AZEVEDO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;14/Set/2018|16/Set/2018 12:50|18:40</td><td>UU4KZI    </td><td>&#160;2472440647432</td><td>671,62</td><td>499,36</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>MARIA DE FATIMA NASCIMENTO ALMEIDA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;14/Set/2018|16/Set/2018 12:50|18:40</td><td>UUFY2P    </td><td>&#160;2472440647433</td><td>671,62</td><td>499,36</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>ALINE MARIA ALVES BEZERRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;14/Set/2018|16/Set/2018 12:50|18:40</td><td>UUKSWF    </td><td>&#160;2472440647434</td><td>671,62</td><td>499,36</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>14/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>Idjane Mendes</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;14/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;14/Set/2018|16/Set/2018 12:50|18:40</td><td>UUKM88    </td><td>&#160;2472440647435</td><td>671,62</td><td>499,36</td><td>843,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>09/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>DIVANI CARVALHO DE SOUZA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;09/Set/2018|16/Set/2018 11:30|17:25</td><td>&#39;09/Set/2018|16/Set/2018 12:50|18:40</td><td>UVNQEW    </td><td>&#160;2472440778937</td><td>930,51</td><td>719,25</td><td>1141,76</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>09/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>WILTON ARAUJO JUNIOR</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;09/Set/2018 11:30</td><td>&#39;09/Set/2018 12:50</td><td>UW5Z4P    </td><td>&#160;2472440778940</td><td>931,74</td><td>450,27</td><td>1413,21</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>09/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>16/09/2018 00:00:00</td><td>WILTON ARAUJO JUNIOR</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;16/Set/2018 17:25</td><td>&#39;16/Set/2018 18:40</td><td>UW3QZW    </td><td>&#160;2472440778941</td><td>360,67</td><td>360,67</td><td>360,67</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>09/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>15/09/2018 00:00:00</td><td>Ana José Santos</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;09/Set/2018|15/Set/2018 11:30|17:25</td><td>&#39;09/Set/2018|15/Set/2018 12:50|18:40</td><td>UVNJM4    </td><td>&#160;2472440778936</td><td>815,03</td><td>669,75</td><td>960,31</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>09/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>15/09/2018 00:00:00</td><td>MARIA SIMONE SIMOES CAMPELO</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;09/Set/2018|15/Set/2018 22:55|17:25</td><td>&#39;10/Set/2018|15/Set/2018 00:15|18:40</td><td>UVRXUS    </td><td>&#160;2472440778938</td><td>815,03</td><td>669,75</td><td>960,31</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>12/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>15/09/2018 00:00:00</td><td>JOSENILDO SOUZA DE OLIVEIRA</td><td>Agência Pontestur</td><td>02.1.1.29 | PETROLINA EF I-II</td><td>&nbsp;</td><td>&#39;12/Set/2018|15/Set/2018 11:30|17:25</td><td>&#39;12/Set/2018|15/Set/2018 12:50|18:40</td><td>UZHGVP    </td><td>&#160;2472440778939</td><td>599,46</td><td>454,04</td><td>744,88</td><td>30/08/2018 14:31:05</td>
+		</tr><tr class="GridTotal">
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td colspan="15"></td>
+		</tr><tr>
+			<td class="GridCabec" colspan="15">Centro Custo de Debito: 06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td>
+		</tr><tr>
+			<td>05/08/2018 12:00:00</td><td>Vilma Rodrigues</td><td>09/08/2018 06:00:00</td><td>BRUNO MIRANDA SANTOS</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;05/Ago/2018|09/Ago/2018 13:20|10:50</td><td>&#39;05/Ago/2018|09/Ago/2018 14:05|13:25</td><td>AWEC3U    </td><td>&#160;AWEC3U</td><td>3128,90</td><td>2551,16</td><td>3706,63</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>13/08/2018 06:00:00</td><td>Vilma Rodrigues</td><td>17/08/2018 12:00:00</td><td>BRUNO MIRANDA SANTOS</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;13/Ago/2018|13/Ago/2018|17/Ago/2018|17/Ago/2018 07:00|09:40|12:25|20:30</td><td>&#39;13/Ago/2018|13/Ago/2018|17/Ago/2018|17/Ago/2018 08:40|11:55|18:30|22:15</td><td>DEKRXY    </td><td>&#160;DEKRXY</td><td>2300,71</td><td>2239,93</td><td>2361,48</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>13/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>17/08/2018 12:00:00</td><td>Marcelo Falcao de Oliveira</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;13/Ago/2018|13/Ago/2018 06:50|09:40</td><td>&#39;13/Ago/2018|13/Ago/2018 08:25|11:55</td><td>VH3N4S    </td><td>&#160;VH3N4S</td><td>1628,15</td><td>1382,08</td><td>1874,22</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>13/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>17/08/2018 12:00:00</td><td>Marcelo Falcao de Oliveira</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;17/Ago/2018|17/Ago/2018 00:35|07:05</td><td>&#39;17/Ago/2018|17/Ago/2018 06:00|08:45</td><td>DOFYWN    </td><td>&#160;9572388484765</td><td>1185,86</td><td>1185,86</td><td>1185,86</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>27/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>03/09/2018 12:00:00</td><td>BRUNO MIRANDA SANTOS</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;27/Ago/2018 09:40</td><td>&#39;27/Ago/2018 14:40</td><td>RK43PZ    </td><td>&#160;RK43PZ</td><td>1202,67</td><td>739,43</td><td>1665,90</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>27/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>03/09/2018 12:00:00</td><td>BRUNO MIRANDA SANTOS</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;31/Ago/2018|31/Ago/2018 05:40|10:00</td><td>&#39;31/Ago/2018|31/Ago/2018 08:25|12:25</td><td>ILZD9T    </td><td>&#160;ILZD9T</td><td>773,83</td><td>550,02</td><td>997,64</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>27/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>31/08/2018 00:00:00</td><td>MARIA DE FATIMA NASCIMENTO ALMEIDA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;27/Ago/2018|27/Ago/2018 10:00|14:00</td><td>&#39;27/Ago/2018|27/Ago/2018 12:45|15:00</td><td>FC8KRM    </td><td>&#160;FC8KRM</td><td>747,63</td><td>722,60</td><td>772,65</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>27/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>31/08/2018 00:00:00</td><td>MARIA DE FATIMA NASCIMENTO ALMEIDA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;31/Ago/2018|31/Ago/2018 05:40|10:00</td><td>&#39;31/Ago/2018|31/Ago/2018 08:25|12:25</td><td>EGCIJS    </td><td>&#160;EGCIJS</td><td>0,00</td><td>0,00</td><td>0,00</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>31/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>03/09/2018 12:00:00</td><td>MARCELO FALCAO DE OLIVEIRA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;02/Set/2018 22:45</td><td>&#39;03/Set/2018 01:50</td><td>JBZWFP    </td><td>&#160;JBZWFP</td><td>864,09</td><td>600,09</td><td>1128,09</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>31/08/2018 00:00:00</td><td>PAUL PESSOA</td><td>03/09/2018 12:00:00</td><td>MARCELO FALCAO DE OLIVEIRA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;31/Ago/2018 15:25</td><td>&#39;31/Ago/2018 18:55</td><td>PZXCGM    </td><td>&#160;9572388562340</td><td>645,84</td><td>455,68</td><td>835,99</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>06/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>14/09/2018 00:00:00</td><td>MARCELO FALCAO DE OLIVEIRA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;06/Set/2018 18:25</td><td>&#39;06/Set/2018 21:45</td><td>NEDRGL    </td><td>&#160;NEDRGL</td><td>546,19</td><td>293,41</td><td>798,96</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>06/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>14/09/2018 00:00:00</td><td>MARCELO FALCAO DE OLIVEIRA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;09/Set/2018 15:00</td><td>&#39;09/Set/2018 17:45</td><td>U7H966    </td><td>&#160;2472440647346</td><td>732,32</td><td>462,03</td><td>1002,60</td><td>30/08/2018 14:31:05</td>
+		</tr><tr>
+			<td>06/09/2018 00:00:00</td><td>PAUL PESSOA</td><td>14/09/2018 00:00:00</td><td>MARCELO FALCAO DE OLIVEIRA</td><td>Agência Pontestur</td><td>06.1.1.00 | MEC-ENSINO MEDIO 06.1.1.00</td><td>&nbsp;</td><td>&#39;14/Set/2018|14/Set/2018 13:35|17:25</td><td>&#39;14/Set/2018|14/Set/2018 16:00|18:35</td><td>GP53XX    </td><td>&#160;GP53XX</td><td>1949,30</td><td>573,03</td><td>3325,56</td><td>30/08/2018 14:31:05</td>
+		</tr><tr class="GridTotal">
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr>
+	</table>
+</td></tr></table>
